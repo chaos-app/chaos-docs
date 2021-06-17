@@ -10,6 +10,7 @@ module.exports = {
   organizationName: "chaos-app", // Usually your GitHub org/user name.
   projectName: "chaos-docs", // Usually your repo name.
   themeConfig: {
+    sidebarCollapsible: false,
     navbar: {
       title: "Chaos Docs",
       logo: {
