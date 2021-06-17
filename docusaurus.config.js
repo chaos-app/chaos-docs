@@ -20,7 +20,7 @@ module.exports = {
       items: [
         {
           type: "doc",
-          docId: "index",
+          docId: "quick-start",
           position: "left",
           label: "Docs",
         },
