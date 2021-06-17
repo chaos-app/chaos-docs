@@ -44,8 +44,7 @@ module.exports = {
           sidebarPath: require.resolve("./sidebars.js"),
           routeBasePath: "/",
           // Please change this to your repo.
-          editUrl:
-            "https://github.com/chaos-app/chaos-docs/edit/master/website/",
+          editUrl: "https://github.com/chaos-app/chaos-docs/edit/master",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
