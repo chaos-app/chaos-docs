@@ -12,7 +12,7 @@ module.exports = {
   themeConfig: {
     sidebarCollapsible: false,
     navbar: {
-      title: "Chaos Docs",
+      title: "Chaos Documentation",
       logo: {
         alt: "Chaos logo",
         src: "img/logo.svg",
